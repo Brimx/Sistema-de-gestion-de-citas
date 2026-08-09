@@ -444,9 +444,4 @@ La conexión se gestiona a través de `DatabaseConnection.java` que también ini
 Proyecto académico — **Programación Orientada a Objetos**  
 Universidad Popular del Cesar · Facultad de Ingenierías y Tecnológicas
 
-| Rol | Nombre |
-|---|---|
-| Docente | Patricia Isabel Álvarez Ortega |
-| Estudiante | Santiago Andrés Montenegro Muñoz |
-| Estudiante | Kevin Jhosep Mercado Morón |
-| Estudiante | Jose Daniel Pinzon Racero |
+| Estudiante | Santiago Andres Montenegro Muñoz |
